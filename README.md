@@ -13,3 +13,8 @@
 **MENTOR NAME** : Neela Santhosh Kumar
 
 # I use visual studio for performing coding and also give some help from online websites like chatgpt and watch some youtube videos to complete this task.
+
+# OUTPUT OF THE TASK
+
+![Capture](https://github.com/user-attachments/assets/95d72e12-5bb6-470a-88f4-7f2d795073f0)
+
